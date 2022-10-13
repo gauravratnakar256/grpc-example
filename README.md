@@ -29,9 +29,10 @@ make -j
 ```
 
 # Run client
+Open new terminal and execute below commands
 
 ```
-cd Client
+cd grpc-example/Client
 python client.py
 ```
 
