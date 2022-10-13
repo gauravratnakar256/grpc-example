@@ -25,7 +25,7 @@ make -j
 ### 2] Run executable
 
 ```
-./server.exe
+./server
 ```
 
 # Run client
